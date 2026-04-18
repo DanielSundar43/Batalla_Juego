@@ -49,3 +49,9 @@ Se aplican conceptos como:
 - Java  
 - Git  
 - GitHub  
+
+---
+
+## Diagrama de clases
+
+![Diagrama](src/main/resources/images/Diagrama.jpeg)
